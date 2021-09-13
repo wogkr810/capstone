@@ -1,12 +1,10 @@
 # Capstone
 ---
 - AI융합캡스톤디자인1 (21-1)
-  - [Natural Language Processing with Disaster Tweets](https://www.kaggle.com/c/nlp-getting-started)
-  - [Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
-  - [House Price Prediction - 2019 2nd ML month with KaKR (캐글 코리아와 함께하는 2nd ML 대회)](https://www.kaggle.com/c/2019-2nd-ml-month-with-kakr/data?select=sample_submission.csv)
+  - 주제: 인공지능 기반 홈케어
+  - 팀장: 이재학 , 팀원: 조경진
 
 ---
-- AI융합캡스톤디자인1 (21-2)
-  - 성적 데이터 분석을 통한 학점 부여
-  - 데이터: 19-2 수학2 반별 최종점수 - 개인정보 비식별화(신상정보:제거 , 과제점수:범주화, 결측값:평균값 대체)
-  - 기울기 차이나는 성적 구간 中 **두개** 의 점을 locator 함수로 plot 후에 성적 부여
+- AI융합캡스톤디자인2 (21-2)
+  - 주제: 내일은 무슨 네일?
+  - 팀장: 이재학 , 팀원: 김창현, 조경진 ,이유리
